@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AllieGie
+- 👀 I’m interested in OpenSource and AI
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on OpenSource Projects focused on Sulstainability
+- 📫 How to reach me: contactalliecastellanos@gmail.com
