@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AllieGie
+- 👋 Hi, I’m Allie 
 - 👀 I’m interested in OpenSource and AI
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on OpenSource Projects focused on Sulstainability
