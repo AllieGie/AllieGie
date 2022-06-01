@@ -7,5 +7,5 @@
 - 💞️ I’m looking to collaborate on OpenSource Projects focused on Sustainability or Justice
 - 📫 How to reach me: contactalliecastellanos@gmail.com
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AllieGie&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=AllieGie&theme=tokyonight&hide_border=true"(https://git.io/streak-stats)</p>
