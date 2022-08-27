@@ -1,5 +1,3 @@
-### testing 1 2 3 
-### akhkdsfhashdfkahfghaifgk
 
 - 👋 Hi, I’m Allie 
 - 👀 I’m interested in OpenSource and AI
