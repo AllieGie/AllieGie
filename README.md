@@ -1,5 +1,5 @@
-
-testing 1 2 3 
+### testing 1 2 3 
+### akhkdsfhashdfkahfghaifgk
 
 - 👋 Hi, I’m Allie 
 - 👀 I’m interested in OpenSource and AI
@@ -8,3 +8,4 @@ testing 1 2 3
 - 📫 How to reach me: contactalliecastellanos@gmail.com
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AllieGie&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
