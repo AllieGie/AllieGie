@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m Allie 
-- 👀 I’m interested in OpenSource and AI
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on OpenSource Projects focused on Sustainability or Justice
+- 👀 I’m interested in making the world a better place and value kindness tremendously <3 
+- 🌱 I’m currently learning REACT
+- 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 How to reach me: contactalliecastellanos@gmail.com
 
 <p align="center">
